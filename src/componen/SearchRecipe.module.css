@@ -1,0 +1,38 @@
+h1 {
+  color: #2e266f;
+  /* font-weight: 180; */
+  line-height: 40px;
+  width: 20%;
+  min-width: 260px;
+}
+
+.boxsearch {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.boximagesearchicon {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 9px;
+}
+
+.boximagesearchicon img {
+  width: 100%;
+  height: 100%;
+  object-position: center;
+  object-fit: cover;
+}
+
+.searchRecipe {
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 33px;
+  background-color: #efefef;
+  border: 1px solid #efefef;
+  box-sizing: border-box;
+  width: 20%;
+  min-width: 260px;
+}

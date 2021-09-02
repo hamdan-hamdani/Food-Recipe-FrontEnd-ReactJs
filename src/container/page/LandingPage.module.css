@@ -1,0 +1,136 @@
+.container {
+  display: flex;
+}
+
+.leftcontent {
+  flex: 80%;
+  background-color: #fff5ec;
+}
+
+.rightContent {
+  height: 0vh !important;
+  min-height: 534px;
+}
+
+.lettuce {
+  position: absolute;
+  top: -59px;
+  left: 73px;
+}
+
+.boxImgPlate {
+  width: 25vw;
+  height: 25vw;
+  position: absolute;
+  left: 0px;
+  top: 0;
+}
+
+.mainContent {
+  background-color: #fff5ec;
+}
+
+.popularContent {
+  display: flex;
+  align-items: center;
+  background-color: #fff5ec;
+  padding-inline-start: 40px;
+}
+
+.boxPopular {
+  width: 11px;
+  height: 56px;
+  background-color: #efc81a;
+}
+
+.popularContent p {
+  font-weight: 500;
+  font-size: 21px;
+  margin-left: 10px;
+  color: #2e266f;
+}
+
+.boxImageMainContent {
+  width: 200px;
+  height: auto;
+  margin-inline-start: -89px;
+  box-sizing: border-box;
+  margin-top: 29px;
+}
+
+.boxPizzaBurger {
+  width: 250px;
+  height: auto;
+  display: flex;
+  margin-top: -136px;
+  margin-bottom: 50px;
+}
+
+.pizza {
+  margin-right: 15px;
+}
+
+.burger {
+  z-index: 99;
+}
+
+.bgplate {
+  margin-top: 63px;
+  margin-left: -230px;
+}
+
+.flexNewRecipe {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: -256px;
+  margin-left: 46px;
+  margin-bottom: 50px;
+}
+
+.boxNewRecipe {
+  background-color: #efc81a;
+  width: 200px;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.boxImageswpotburger {
+  width: 275px;
+  /* margin-top: 58px;
+  margin-left: -147px; */
+  height: 275px;
+}
+
+.description {
+  color: #3f3a3a;
+  margin-left: 0px;
+}
+
+.description h1 {
+  font-weight: 500;
+}
+
+.description button {
+  background-color: #efc81a;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.flexGallery {
+  display: flex;
+  flex-wrap: wrap;
+  padding-inline-start: 40px;
+  padding-inline-end: 40px;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  gap: 20px;
+}
+
+.flexGallery img {
+  width: 30%;
+  height: auto;
+}

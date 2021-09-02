@@ -1,0 +1,33 @@
+.container input,
+.container textarea {
+  display: block;
+  margin: auto;
+  width: 50%;
+  border-radius: 5px;
+  background-color: #f6f5f4;
+  box-sizing: border-box;
+  border: none;
+  padding: 10px;
+}
+
+.container input[type="file"] {
+  height: 300px;
+}
+
+.container input[type="text"] {
+  margin-top: 19px;
+}
+
+.container textarea {
+  margin-top: 19px;
+}
+
+.container button {
+  background-color: #efc81a;
+  padding: 10px 50px;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  display: block;
+  margin: 19px auto;
+}

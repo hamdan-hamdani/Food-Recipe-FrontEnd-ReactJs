@@ -1,0 +1,7 @@
+ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 5%;
+  color: #2e266f;
+  font-weight: 500;
+}

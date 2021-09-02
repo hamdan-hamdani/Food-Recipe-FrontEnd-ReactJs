@@ -1,0 +1,62 @@
+.boxImageProfil {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  margin-top: 70px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+p {
+  text-align: center;
+  font-weight: 500;
+}
+
+.flex {
+  display: flex;
+  margin: 19px auto;
+  padding-left: 40px;
+}
+
+.flex p {
+  margin-right: 15px;
+}
+
+hr {
+  border: 1px solid #dfdfdf;
+}
+
+.containerImage {
+  padding-inline-start: 40px;
+  padding-inline-end: 40px;
+  display: flex;
+  gap: 10px;
+}
+
+.flexImage {
+  width: 230px;
+  height: 115px;
+  border-radius: 5px;
+}
+
+.flexImage img {
+  border-radius: 5px;
+}
+
+.footer {
+  background-color: #efc81a;
+  text-align: center;
+  padding: 5px 0px;
+  margin-top: 134px;
+}
+
+.footer ul li {
+  color: #707070;
+  font-weight: 400;
+  font-size: 16px;
+}

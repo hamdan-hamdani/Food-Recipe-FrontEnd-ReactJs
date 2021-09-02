@@ -1,0 +1,31 @@
+.footer {
+  background-color: #efc81a;
+  text-align: center;
+  padding: 40px;
+  padding-top: 85px;
+  padding-bottom: 7px;
+}
+
+.footer h1 {
+  font-weight: 400;
+  color: #2e266f;
+  display: inline-block;
+  margin: 0;
+}
+
+.footer p {
+  color: #707070;
+  font-weight: 400;
+  margin: 0;
+  font-size: 24px;
+}
+
+.footer ul {
+  margin-top: 70px;
+}
+
+.footer ul li {
+  color: #707070;
+  font-weight: 400;
+  font-size: 16px;
+}

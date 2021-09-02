@@ -32,7 +32,7 @@ Ini adalah repositori baru saya yang dibangun dengan library ReactJs untuk membu
 
 <p align='center'>
   <span>
-      <image width="200" src="![Landing Page](https://user-images.githubusercontent.com/53355779/131926864-2ff8545c-eb90-4536-9460-19878f6e1126.png)" />
+      <image width="200" src="(https://user-images.githubusercontent.com/53355779/131926864-2ff8545c-eb90-4536-9460-19878f6e1126.png)" />
        <image width="200" src="![Sign Up](https://user-images.githubusercontent.com/53355779/131927016-c71509b2-ae2a-461d-9d59-16738afadb48.png)" />
        <image width="200" src="![Login](https://user-images.githubusercontent.com/53355779/131926930-d2e09935-52a9-4e71-bb72-6d312b4ed572.png)" />
        <image width="200" src="![Forgot Password](https://user-images.githubusercontent.com/53355779/131927010-b312a8cf-7bb1-4caf-a9ee-348e063c34ff.png)" />

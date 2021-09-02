@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+<h1 align='center'>Food Recipe Aplikasi dengan ReactJs - Front End</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align='center'>
+  <a href='https://reactjs.org/'>
+  <img width="500" src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K' />
+  </a>
+</p>
 
-## Available Scripts
+<br>
+<br>
 
-In the project directory, you can run:
+Ini adalah repositori baru saya yang dibangun dengan library ReactJs untuk membuat Antarmuka Pengguna dalam sintaks JavaScript.
 
-### `yarn start`
+## Pengantar
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![ReactJs](https://img.shields.io/badge/React%20Js-0.59.9-blue.svg?style=rounded-square)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-v.10.16-green.svg?style=rounded-square)](https://nodejs.org/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Persyaratan
 
-### `yarn test`
+1. <a href="https://nodejs.org/en/download/">Node Js</a>
+2. Node_modules
+3. ReactJs
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Cara menjalankan aplikasi ?
 
-### `yarn build`
+1. Buka direktori aplikasi di CMD atau Terminal
+2. Siapkan browser untuk membuka aplikasi
+3. ketik `yarn start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tangkapan layar dari aplikasi
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align='center'>
+  <span>
+      <image width="200" src="![Landing Page](https://user-images.githubusercontent.com/53355779/131926864-2ff8545c-eb90-4536-9460-19878f6e1126.png)" />
+       <image width="200" src="![Sign Up](https://user-images.githubusercontent.com/53355779/131927016-c71509b2-ae2a-461d-9d59-16738afadb48.png)" />
+       <image width="200" src="![Login](https://user-images.githubusercontent.com/53355779/131926930-d2e09935-52a9-4e71-bb72-6d312b4ed572.png)" />
+       <image width="200" src="![Forgot Password](https://user-images.githubusercontent.com/53355779/131927010-b312a8cf-7bb1-4caf-a9ee-348e063c34ff.png)" />
+       <image width="200" src="![Reset Password](https://user-images.githubusercontent.com/53355779/131927014-f0f77f63-be2a-4024-9c49-26bc970bc1af.png)" />
+       <image width="200" src="![Profil](https://user-images.githubusercontent.com/53355779/131927013-dceb97a4-b760-42ad-844d-e9d8d8a47ac0.png)" />
+       <image width="200" src="![Add Recipe](https://user-images.githubusercontent.com/53355779/131926994-01dc3cd8-2880-4ef1-b15c-f7f0cec7bd7a.png)" />
+       <image width="200" src="![Detail Resep](https://user-images.githubusercontent.com/53355779/131927001-56f17e3c-5876-42f5-a3e9-a2ebaca99fcf.png)" />
+       <image width="200" src="![Detail Video](https://user-images.githubusercontent.com/53355779/131927006-d8c81cce-01e7-4a9c-83c7-d30c080b6a35.png)" />
+       <image width="200" src="![Chat](https://user-images.githubusercontent.com/53355779/131926995-cd285492-ab8c-42d0-9720-c2df18e56e4b.png)" />
+  </span>
+</p>

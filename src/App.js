@@ -33,21 +33,21 @@ function App() {
             <Route path="/resetpassword">
               <PageReset />
             </Route>
-            <PrivateRoute path="/chat">
+            <Route path="/chat">
               <Chat />
-            </PrivateRoute>
-            <PrivateRoute path="/detailresep">
+            </Route>
+            <Route path="/detailresep">
               <DetailResep />
-            </PrivateRoute>
-            <PrivateRoute path="/detailvideo">
+            </Route>
+            <Route path="/detailvideo">
               <DetailVideoResep />
-            </PrivateRoute>
-            <PrivateRoute path="/addrecipe">
+            </Route>
+            <Route path="/addrecipe">
               <AddRecipe />
-            </PrivateRoute>
-            <PrivateRoute path="/profil">
+            </Route>
+            <Route path="/profil">
               <Profil />
-            </PrivateRoute>
+            </Route>
             <Route path="/">
               <LandingPage />
             </Route>

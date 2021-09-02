@@ -62,18 +62,18 @@ export default function PageLogin() {
             <div className="email">
               <label htmlFor="email">E-mail</label>
               <br />
-              <input onChange={onChangeEmail} type="text" name="email" id="email" placeholder="examplexxx@gmail.com" />
+              <input onChange={() => null} type="text" name="email" id="email" placeholder="examplexxx@gmail.com" />
             </div>
             <div className="password">
               <label htmlFor="password">Password</label>
               <br />
-              <input onChange={onChangePassword} type="password" id="password" />
+              <input onChange={() => null} type="password" id="password" />
             </div>
             <div className="containerAgree">
               <div className="boxChecklis"></div>
               <p>I agree to terms & conditions</p>
             </div>
-            <button onClick={onClickLogin(email, password)}>Log in</button>
+            <button onClick={() => null}>Log in</button>
             <Link to="/forgotpassword">
               <p className="forgotPassword">Forgot Password ?</p>
             </Link>
